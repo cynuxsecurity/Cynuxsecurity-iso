@@ -1,0 +1,5 @@
+Hello,
+
+Current Version is beta release of cynux and hence may contain many bugs. User Feedback is very useful to us to further continue.
+
+Regard Team CybSec

@@ -1,0 +1,9 @@
+NAME="Cynux Security"
+PRETTY_NAME="Cynux Security"
+ID=cynux
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://www.cynuxsecurity.org/"
+DOCUMENTATION_URL="https://docs.cynuxsecurity.org/"
+SUPPORT_URL="yettorelease"
+LOGO=cynuxsecurity
