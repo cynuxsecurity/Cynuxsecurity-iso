@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         "@{NAME}"
-    shortProductName:    Cynux Security
+    productName:         "Cynux Security"
+    shortProductName:    cynux
     version:             1.0
     shortVersion:        1.0
-    versionedName:       Cynux Security
-    shortVersionedName:  Cynux Security
-    bootloaderEntryName: Cynux Security
+    versionedName:       CynuxSecurity
+    shortVersionedName:  cynux
+    bootloaderEntryName: CynuxSecurity
 
 # These images are loaded from the branding module directory.
 #

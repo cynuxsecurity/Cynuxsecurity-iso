@@ -18,6 +18,6 @@ systemctl enable vmtoolsd.service
 systemctl enable vboxservice.service
 systemctl enable bluetooth
 mv /root/lsb-release /etc/lsb-release
-
+ln -s /usr/bin/calamares /usr/bin/install_cynux
 pacman-key --init
 pacman-key --populate archlinux

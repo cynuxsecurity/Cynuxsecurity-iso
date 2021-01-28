@@ -35,8 +35,6 @@ Presentation
             id: background1
             source: "/usr/share/backgrounds/cynuxsecwap_1.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -49,10 +47,8 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background2
-            source: "/usr/share/backgrounds/cynuxsecwap_2.png"
+            source: "set.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -64,10 +60,8 @@ Presentation
         anchors.verticalCenterOffset: 0
         Image {
             id: background4
-            source: "/usr/share/backgrounds/cynuxsecwap_3.png"
+            source: "zap.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -78,11 +72,9 @@ Presentation
         anchors.fill: parent
         anchors.verticalCenterOffset: 0
         Image {
-            id: background5
-            source: "/usr/share/backgrounds/cynuxsecwap_4.png"
+            id: background10
+            source: "firefox.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -96,8 +88,6 @@ Presentation
             id: background5
             source: "/usr/share/backgrounds/cynuxsecwap_5.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -111,8 +101,6 @@ Presentation
             id: background6
             source: "msf.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -126,8 +114,6 @@ Presentation
             id: background7
             source: "/usr/share/backgrounds/cynuxsecwap_6.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -141,8 +127,6 @@ Presentation
             id: background8
             source: "wireshark.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
@@ -156,8 +140,6 @@ Presentation
             id: background9
             source: "burpsuite.png"
             width: parent.width; height: parent.height
-            horizontalAlignment: Image.AlignCenter
-            verticalAlignment: Image.AlignTop
             fillMode: Image.Stretch
             anchors.fill: parent
         }
