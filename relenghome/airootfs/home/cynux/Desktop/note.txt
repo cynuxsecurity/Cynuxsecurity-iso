@@ -1,0 +1,9 @@
+Hello,
+
+Current Version is testing release of cynuxsecurity os and hence may contain many bugs. User Feedback is very useful to us to further continue.
+
+To install cynux
+In terminal type:
+sudo install_cynux
+
+Regard Team CybSec

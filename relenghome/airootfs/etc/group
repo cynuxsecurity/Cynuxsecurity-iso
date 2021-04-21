@@ -1,0 +1,6 @@
+root:x:0:root
+adm:x:4:cynux
+wheel:x:10:cynux
+uucp:x:14:cynux
+cynux:x:1000:
+
