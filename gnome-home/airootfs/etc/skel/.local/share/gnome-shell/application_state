@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="6" last-seen="1620485877"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="40" last-seen="1619884013"/>
+    <application id="org.gnome.tweaks.desktop" score="75" last-seen="1620486677"/>
+    <application id="org.gnome.FileRoller.desktop" score="42" last-seen="1620486270"/>
+    <application id="org.gnome.Terminal.desktop" score="11488" last-seen="1620486776"/>
+    <application id="org.gnome.Photos.desktop" score="0" last-seen="1620485618"/>
+    <application id="firefox.desktop" score="637" last-seen="1620486779"/>
+    <application id="org.gnome.Extensions.desktop" score="11" last-seen="1620484718"/>
+    <application id="gnome-control-center.desktop" score="5067" last-seen="1619884147"/>
+  </context>
+</application-state>

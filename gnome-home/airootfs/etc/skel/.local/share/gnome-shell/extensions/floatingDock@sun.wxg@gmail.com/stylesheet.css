@@ -1,0 +1,51 @@
+#floating-dock {
+}
+
+#floating-dock .item-box {
+  border-radius: 9px;
+  background-color: rgba(46, 52, 54, 0.3); }
+
+#floating-dock .item-container {
+}
+
+#floating-dock .button-box {
+  padding: 8px; }
+
+#floating-dock .button-box:hover {
+  border-radius: 9px;
+  background-color: rgba(46, 52, 54, 0.4); }
+
+#floating-dock .app-running-dash {
+  height: 5px;
+  width: 10px;
+  margin-bottom: 2px;
+  background-color: red; }
+
+#floating-dock .app-running-dot {
+  height: 8px;
+  width: 8px;
+  border-radius: 5px;
+  margin-bottom: 1px;
+  background-color: red; }
+
+#floating-dock .app-button {
+  padding: 0px; }
+
+#floating-dock-number-icon {
+  border-radius: 9px;
+  padding: 2px;
+  background-color: #eeeeec; }
+
+#floating-dock-main-button {
+  border-radius: 9px;
+  padding: 8px; }
+
+#floating-dock-transparent-button {
+  border-radius: 39px;
+  background-color: rgba(46, 52, 54, 0.4);
+}
+
+#floating-dock-around-button {
+  border-radius: 9px;
+  margin: 4px;
+  padding: 4px; }
